@@ -1,0 +1,10 @@
+Admin
+--------------
+Username: Smart_admin
+password:Admin@123
+
+User
+---------------
+Username:   aydin@gmail.com
+Password:  Aydin@2015
+
